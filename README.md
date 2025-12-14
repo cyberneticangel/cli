@@ -1,2 +1,2 @@
 # cli
-CLI Application rewritten in Rust
+CLI Applications rewritten in Rust
